@@ -12,7 +12,7 @@ namespace ex2
 {
     public class Program
     {
-        //test pull
+        //test conflict
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
